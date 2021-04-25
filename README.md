@@ -1,34 +1,55 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+  <img src=".github/Podcastr-NLW5-logo.svg" alt="Podcastr logo">
+</div>
 
-## Getting Started
+<div align="center">
+![ezgif-6-5d9bec28b2bc](https://user-images.githubusercontent.com/44476242/115996568-2fd43780-a5b6-11eb-964e-3292ea3a0be6.gif)
+</div>
 
-First, run the development server:
+
+## 💻 Project proposal
+
+Project developed during the 5th edition of the Next Level Week of Rocketseat using typescript, react.js and next.js. Podcastr is a platform built for podcast broadcasting. 
+
+## 🧭 Tecnologies
+
+This project was developed using:
+- [Typescript](https://www.typescriptlang.org/)
+- [ReactJS](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
+
+<h2>
+  📌 To have a copy of the project
+</h2>
+
+### Clone the repository to have a copy of the code on your machine
 
 ```bash
-npm run dev
-# or
-yarn dev
+$ git clone https://github.com/jvictorribeiro/Podcastr-NLW5.git && cd Podcastr-NLW5
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Get all dependencies
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```bash
+$ yarn install
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+### Run the 'backend' server
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```bash
+$ yarn server
+```
 
-## Learn More
+### Run the project
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+$ yarn dev
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The app will be available for access on your browser at **http://localhost:3000**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 📝 Licença
 
-## Deploy on Vercel
+This project is under the **MIT** license.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<h3 align=center>Made by <a href="https://www.linkedin.com/in/victor-ribeiroo//">Jv</a></h3>
