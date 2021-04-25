@@ -1,9 +1,10 @@
 <div align="center">
   <img src=".github/logo.svg" alt="Podcastr logo">
+  ![Badge](.github/example.gif)
 </div>
 
-![Badge](.github/example.gif)
-## 💻 Project proposal
+
+## 💻 About the Project
 
 Project developed during the 5th edition of the Next Level Week of Rocketseat using typescript, react.js and next.js. Podcastr is a platform built for podcast broadcasting. 
 
