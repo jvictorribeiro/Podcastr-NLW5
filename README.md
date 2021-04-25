@@ -1,8 +1,11 @@
 <div align="center">
-  <img src=".github/podcastr-logo.svg" alt="Podcastr logo">
+  <img src=".github/Podcastr-NLW5-logo.svg" alt="Podcastr logo">
 </div>
 
+<div align="center">
 ![ezgif-6-5d9bec28b2bc](https://user-images.githubusercontent.com/44476242/115996568-2fd43780-a5b6-11eb-964e-3292ea3a0be6.gif)
+</div>
+
 
 ## 💻 Project proposal
 
