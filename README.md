@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/podcastr-nlw5-logo.svg" alt="Podcastr logo">
+  <img src=".github/logo.svg" alt="Podcastr logo">
 </div>
 
 ![Badge](.github/example.gif)
