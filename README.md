@@ -2,10 +2,7 @@
   <img src=".github/logo.svg" alt="Podcastr logo">
 </div>
 
-<div align="center">
-  ![Badge](.github/example.gif)
-</div>
-
+![Badge](.github/example.gif)
 
 ## 💻 About the Project
 
